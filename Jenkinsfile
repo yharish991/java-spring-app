@@ -2,5 +2,5 @@
 
 @Library('MicroserviceBuilder') _
 microserviceBuilderPipeline {
-  image = 'javaspringapp'
+  image = 'javaspringapp-appid'
 }

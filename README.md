@@ -59,7 +59,7 @@ To get started building this application locally, you can either run the applica
 
 To build and run an application:
 1. `mvn install`
-1. `java -jar ./target/javaspringapp-1.0-SNAPSHOT.jar`
+1. `java -jar ./target/javaspringapp-appid-1.0-SNAPSHOT.jar`
 
 To run an application in Docker use the Docker file called `Dockerfile`. If you do not want to install Maven locally you can use `Dockerfile-tools` to build a container with Maven installed.
 
@@ -108,4 +108,3 @@ ibmcloud dev debug
 This sample application is licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
 [Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
-
